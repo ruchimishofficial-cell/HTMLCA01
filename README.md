@@ -1,0 +1,2 @@
+# HTMLCA01
+I have took the reference of new generation smart watch with its latest features and discounted price, i have used unordered list to explain about its features . I have used table to give the comparison between the current and the previous versions of the product. For the reference I have attached Link of apple product website for the reference. I have added the image from my local database by changing its configuration 
